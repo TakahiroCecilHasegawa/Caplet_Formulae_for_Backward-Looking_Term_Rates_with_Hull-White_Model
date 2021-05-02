@@ -1,0 +1,35 @@
+[underlying, strike] =  [0.05031639624925777, 0.07547459437388665]
+Analytical solution for Comp. 0.1787844233670403
+MonteCarlo solution for Comp. 0.17878121946925474
+[underlying, strike] =  [0.05031639624925777, 0.06289549531157221]
+Analytical solution for Comp. 0.1800730657971329
+MonteCarlo solution for Comp. 0.18006986232407768
+[underlying, strike] =  [0.05031639624925777, 0.05031639624925777]
+Analytical solution for Comp. 0.18137019358478162
+MonteCarlo solution for Comp. 0.1813669846436967
+[underlying, strike] =  [0.05031639624925777, 0.037737297186943325]
+Analytical solution for Comp. 0.1826758468142748
+MonteCarlo solution for Comp. 0.18267262455094863
+[underlying, strike] =  [0.05031639624925777, 0.025158198124628883]
+Analytical solution for Comp. 0.1839900654756158
+MonteCarlo solution for Comp. 0.18398682250952775
+
+-------------------
+
+[underlying, strike] =  [-0.35666249477024936, -0.5349937421553741]
+Analytical solution for AA. 0.20399389103686189
+MonteCarlo solution for AA. 0.20398839690272455
+[underlying, strike] =  [-0.35666249477024936, -0.4458281184628117]
+Analytical solution for AA. 0.19208967914443753
+MonteCarlo solution for AA. 0.1920843990668175
+[underlying, strike] =  [-0.35666249477024936, -0.35666249477024936]
+Analytical solution for AA. 0.18062988498887328
+MonteCarlo solution for AA. 0.18062484099207987
+[underlying, strike] =  [-0.35666249477024936, -0.26749687107768705]
+Analytical solution for AA. 0.16961505618631223
+MonteCarlo solution for AA. 0.16961023402919598
+[underlying, strike] =  [-0.35666249477024936, -0.17833124738512468]
+Analytical solution for AA. 0.15904464512061126
+MonteCarlo solution for AA. 0.15904004194280325
+スレッド 'MainThread' (0x1) はコード 0 (0x0) で終了しました。
+プログラム 'pythonw.exe' はコード 0 (0x0) で終了しました。
