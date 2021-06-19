@@ -1,35 +1,58 @@
-[underlying, strike] =  [0.05031639624925777, 0.07547459437388665]
-Analytical solution for Comp. 0.1787844233670403
-MonteCarlo solution for Comp. 0.17878121946925474
-[underlying, strike] =  [0.05031639624925777, 0.06289549531157221]
-Analytical solution for Comp. 0.1800730657971329
-MonteCarlo solution for Comp. 0.18006986232407768
-[underlying, strike] =  [0.05031639624925777, 0.05031639624925777]
-Analytical solution for Comp. 0.18137019358478162
-MonteCarlo solution for Comp. 0.1813669846436967
-[underlying, strike] =  [0.05031639624925777, 0.037737297186943325]
-Analytical solution for Comp. 0.1826758468142748
-MonteCarlo solution for Comp. 0.18267262455094863
-[underlying, strike] =  [0.05031639624925777, 0.025158198124628883]
-Analytical solution for Comp. 0.1839900654756158
-MonteCarlo solution for Comp. 0.18398682250952775
+[underlying, strike] =  [0.010016868257651945, 0.015025302386477916]
+Analytical solution for Comp. 0.04338928708920908
+MonteCarlo solution for Comp. 0.04339116409913595
+Diff(MC/AS - 1) for Comp.     4.32597549484548e-05
+
+[underlying, strike] =  [0.010016868257651945, 0.012521085322064932]
+Analytical solution for Comp. 0.043788811634491887
+MonteCarlo solution for Comp. 0.04379068896700208
+Diff(MC/AS - 1) for Comp.     4.2872424258932895e-05
+
+[underlying, strike] =  [0.010016868257651945, 0.010016868257651945]
+Analytical solution for Comp. 0.044190892472232735
+MonteCarlo solution for Comp. 0.04419276912407724
+Diff(MC/AS - 1) for Comp.     4.2466936952756384e-05
+
+[underlying, strike] =  [0.010016868257651945, 0.007512651193238958]
+Analytical solution for Comp. 0.04459553290213403
+MonteCarlo solution for Comp. 0.04459740752845481
+Diff(MC/AS - 1) for Comp.     4.2036190595506895e-05
+
+[underlying, strike] =  [0.010016868257651945, 0.0050084341288259724]
+Analytical solution for Comp. 0.04500273608228372
+MonteCarlo solution for Comp. 0.04500460816060154
+Diff(MC/AS - 1) for Comp.     4.159921108781717e-05
+
 
 -------------------
 
-[underlying, strike] =  [-0.35666249477024936, -0.5349937421553741]
-Analytical solution for AA. 0.20399389103686189
-MonteCarlo solution for AA. 0.20398839690272455
-[underlying, strike] =  [-0.35666249477024936, -0.4458281184628117]
-Analytical solution for AA. 0.19208967914443753
-MonteCarlo solution for AA. 0.1920843990668175
-[underlying, strike] =  [-0.35666249477024936, -0.35666249477024936]
-Analytical solution for AA. 0.18062988498887328
-MonteCarlo solution for AA. 0.18062484099207987
-[underlying, strike] =  [-0.35666249477024936, -0.26749687107768705]
-Analytical solution for AA. 0.16961505618631223
-MonteCarlo solution for AA. 0.16961023402919598
-[underlying, strike] =  [-0.35666249477024936, -0.17833124738512468]
-Analytical solution for AA. 0.15904464512061126
-MonteCarlo solution for AA. 0.15904004194280325
+[underlying, strike] =  [-0.00810162601626039, -0.012152439024390584]
+Analytical solution for AA . 0.044750514510026575
+MonteCarlo solution for AA . 0.044752179861781254
+Diff(MC/AS - 1) for AA       3.7214136483498805e-05
+
+[underlying, strike] =  [-0.00810162601626039, -0.010127032520325487]
+Analytical solution for AA . 0.044406723537584805
+MonteCarlo solution for AA . 0.044408394551869096
+Diff(MC/AS - 1) for AA       3.7629758540491665e-05
+
+[underlying, strike] =  [-0.00810162601626039, -0.00810162601626039]
+Analytical solution for AA . 0.04406461512053774
+MonteCarlo solution for AA . 0.04406629194175019
+Diff(MC/AS - 1) for AA       3.805369019715954e-05
+
+[underlying, strike] =  [-0.00810162601626039, -0.006076219512195292]
+Analytical solution for AA . 0.04372418929100944
+MonteCarlo solution for AA . 0.04372587237476489
+Diff(MC/AS - 1) for AA       3.849319524817929e-05
+
+[underlying, strike] =  [-0.00810162601626039, -0.004050813008130195]
+Analytical solution for AA . 0.043385446016875856
+MonteCarlo solution for AA . 0.04338713479110449
+Diff(MC/AS - 1) for AA       3.892490186618858e-05
+
+
+-------------------
+
 スレッド 'MainThread' (0x1) はコード 0 (0x0) で終了しました。
 プログラム 'pythonw.exe' はコード 0 (0x0) で終了しました。
